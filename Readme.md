@@ -2,7 +2,7 @@
 ----
 Purpose:
 
-This Python file implements a Boolean algebra calculator that generates truth tables for logical expressions.
+This Python file implements a Boolean algebra calculator that generates truth tables for logical expressions using GUI.
 
 * Module used:
     1. from itertools import product
