@@ -1,4 +1,5 @@
-# LogicCalculator
+[LogicCalculator](https://github.com/Azizsin7/Truth-Table/blob/main/logiccalculator.py)
+----
 Purpose:
 
 This Python file implements a Boolean algebra calculator that generates truth tables for logical expressions.
@@ -17,7 +18,7 @@ This Python file implements a Boolean algebra calculator that generates truth ta
         The alias tk is a common convention to make the code more concise
         Used to create the visual interface for the logic calculator
     3. from tkinter import messagebox
-    
+
         Imports specifically the messagebox module from Tkinter
         Messagebox provides popup windows for:
         Showing errors
